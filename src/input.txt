@@ -1,25 +1,14 @@
-
-insert 111
-             insert 23
-
-insert 99
-insert         4
-
-isEmpty
-
-    insert     111
-
+insert NVDA,134.7
+insert AAPL,254.49
 print
-
-
-search 9
-
-remove 23
-
-remove 4
-remove 999999
-isEmptyasfh
+remove NVDA
+remove NVDA
+insert META,585.25
+insert QQQ
+insert TSLA,421.06
+search AAPL
+search MSFT
 print
-
-insert 123
+remove AAPL
+search TSLA
 print
