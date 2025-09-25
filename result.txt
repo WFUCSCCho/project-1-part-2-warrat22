@@ -1,6 +1,6 @@
 insert NVDA 134.7 | 
 insert AAPL 254.49 | 
-AAPL 254.49 | , NVDA 134.7 | ,
+AAPL 254.49 |  NVDA 134.7 |
 removed NVDA 134.7 | 
 remove failed
 insert META 585.25 | 
@@ -8,7 +8,7 @@ Invalid insert
 insert TSLA 421.06 | 
 found AAPL 254.49 | 
 search failed
-AAPL 254.49 | , META 585.25 | , TSLA 421.06 | ,
+AAPL 254.49 |  META 585.25 |  TSLA 421.06 |
 removed AAPL 254.49 | 
 found TSLA 421.06 | 
-META 585.25 | , TSLA 421.06 | ,
+META 585.25 |  TSLA 421.06 |

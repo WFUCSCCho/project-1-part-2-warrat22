@@ -93,7 +93,7 @@ public class Parser {
             case "print" -> {
                 String result = "";
                 for (SP500 stock : mybst) {
-                    result += stock + ", ";
+                    result += stock + " ";
                 }
                 writeToFile(result.trim(), "./result.txt");
             }
